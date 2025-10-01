@@ -8,7 +8,7 @@
 </head>
 <body>
     <form action="#" method="POST">
-        Valor em metros:
+        Valor em metro:
         <input type = "number" name="cxmetro">
     </form>
 
